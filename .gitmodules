@@ -1,3 +1,0 @@
-[submodule "terraform-terragrunt-azure-example"]
-	path = terraform-terragrunt-azure-example
-	url = git@github.com:betarabbit/terraform-terragrunt-azure-example.git
